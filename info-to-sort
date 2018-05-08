@@ -8,3 +8,9 @@ $ git commit -m "Add: Submodule"
 
 Updating submodules:
 Commits can be made to submodules just as though you are working in the original repository. It requires a commit with the submodule dir.
+
+Cloning Repositories with Submodules:
+1. $ git clone --recursive <remote repo>
+2. $ git clone <remote repo>
+   $ git submodule init
+   $ git submodule update
