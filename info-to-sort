@@ -1,6 +1,10 @@
 Git submodules:
 Allows for nesting referenced repositories within other repositories.
 
+Creating submodules:
 $ cd /path/to/parent-repo
 $ git submodule add <git path>
 $ git commit -m "Add: Submodule" 
+
+Updating submodules:
+Commits can be made to submodules just as though you are working in the original repository. It requires a commit with the submodule dir.
