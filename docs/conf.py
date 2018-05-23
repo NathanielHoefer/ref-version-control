@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ref-version-control'
+project = u'Version Control Reference'
 copyright = u'2018, Nathaniel Hoefer'
 author = u'Nathaniel Hoefer'
 
