@@ -13,7 +13,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   git-submodules
+   git
    info-to-sort
 
 Indices and tables
